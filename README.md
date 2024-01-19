@@ -1,3 +1,3 @@
 # Craft-test
-My first github work
-My first github project
+My first github work.
+My first github project.
